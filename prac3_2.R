@@ -209,3 +209,5 @@ ggplot(twomonths, aes(x=Temp, color=Month, fill=Month)) +
        y="Frequency")+
   theme_classic()+
   theme(plot.title = element_text(hjust = 0.5))
+
+print(123)
